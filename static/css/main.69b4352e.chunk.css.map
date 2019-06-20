@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:\\IT\\Projects\\1111\\test-prog\\test-pro/src\\components\\app\\styles.scss"],"names":[],"mappings":"AAAA,cACE,YAAa,CACb,eAAgB,CAFlB,6BAKI,WAAY","file":"main.69b4352e.chunk.css","sourcesContent":["#AppComponent {\r\n  height: 100vh;\r\n  overflow-y: auto;\r\n\r\n  .app-container {\r\n    height: 100%;\r\n  }\r\n}\r\n"]}
