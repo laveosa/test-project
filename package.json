@@ -1,0 +1,24 @@
+{
+  "name": "swiper-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logic.js",
+  "homepage": "https://laveosa.github.io/test-project/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laveosa/test-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laveosa/test-project/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
