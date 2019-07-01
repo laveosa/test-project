@@ -3,8 +3,11 @@
     function setSwiper() {
       var mySwiper = new Swiper(".swiper-container", {
         slidesPerView: "auto",
+        noSwipingSelector:
+          ".swiper-slide, .swiper-pagination, .swiper-button-prev, .swiper-button-next",
         pagination: {
-          el: ".swiper-pagination"
+          el: ".swiper-pagination",
+          clickable: true
         },
         navigation: {
           nextEl: ".swiper-button-next",
